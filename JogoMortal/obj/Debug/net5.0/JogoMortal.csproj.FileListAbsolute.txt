@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\JogoMortal.exe
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\JogoMortal.deps.json
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\JogoMortal.runtimeconfig.json
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\JogoMortal.runtimeconfig.dev.json
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\JogoMortal.dll
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\ref\JogoMortal.dll
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\bin\Debug\net5.0\JogoMortal.pdb
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.AssemblyInfo.cs
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.dll
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\ref\JogoMortal.dll
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.pdb
+C:\Users\victo\source\repos\JogoMortal\JogoMortal\obj\Debug\net5.0\JogoMortal.genruntimeconfig.cache
